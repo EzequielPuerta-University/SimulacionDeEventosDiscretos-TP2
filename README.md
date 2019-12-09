@@ -10,8 +10,8 @@ en CDPP_ExtendedStates-codename-Santi) está ubicada en una
 carpeta llamada "foo", clonar este repo (TP2) en:
 
 foo
-: CDPP_ExtendedStates-codename-Santi
-: TP2
+* CDPP_ExtendedStates-codename-Santi
+* TP2
  
 Dentro de TP2 se provee:
 
