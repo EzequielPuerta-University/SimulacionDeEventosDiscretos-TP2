@@ -25,7 +25,7 @@ Dentro de TP2 se provee:
    modificación a este mismo.
 	   
 3. el directorio paletas, con dos paletas de colores, útiles para el graficador
-   de CellDEVS.
+   de CellDEVS (https://omarhesham.com/arslab/webviewer/).
 
 4. el directorio scripts posee dos .sh para ser llamados desde los simulacion.sh.
    Todos usan al preparar_valores.sh, excepto por el experimento de mercados
