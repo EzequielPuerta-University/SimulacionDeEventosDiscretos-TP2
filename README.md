@@ -3,7 +3,7 @@ TP2 - Simulación de Eventos Discretos
 
 En principio se espera que este repositorio se clone en
 un directorio ubicado al mismo nivel que la carpeta de 
-la distribución original de CD++.
+la [distribución original de CD++](https://github.com/SimulationEverywhere/CDPP_ExtendedStates-codename-Santi).
 
 Es decir si dicha distribución (que al descargarse se ubica 
 en CDPP_ExtendedStates-codename-Santi) está ubicada en una 
@@ -24,8 +24,8 @@ Dentro de TP2 se provee:
    porque los experimentos restantes usan otro archivo de macros, con una 
    modificación a este mismo.
 	   
-3. el directorio paletas, con dos paletas de colores, útiles para el graficador
-   de CellDEVS (https://omarhesham.com/arslab/webviewer/).
+3. el directorio paletas, con dos paletas de colores, útiles para el [graficador
+   de CellDEVS](https://omarhesham.com/arslab/webviewer/).
 
 4. el directorio scripts posee dos .sh para ser llamados desde los simulacion.sh.
    Todos usan al preparar_valores.sh, excepto por el experimento de mercados
